@@ -1,0 +1,18 @@
+{
+  "main config": {
+    "baseURL": "https://www.lambdatest.com/selenium-playground/simple-form-demo",
+    "username": "test123@yopmail.com",
+    "password": "123456",
+    "expectedTextInURL": "simple-form-demo",
+    "slidingRange": "95",
+    "country": "India",
+    "state": "Punjab",
+    "address": "test address",
+    "zip": "123456",
+    "company": "test company",
+    "website": "https://test.com",
+    "name": "test name",
+    "emailId": "test@123.com",
+    "city": "Chandigarh"
+  }
+}
